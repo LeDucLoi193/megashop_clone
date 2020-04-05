@@ -1,0 +1,33 @@
+.service { 
+	text-align: center;
+}
+
+.service .title h3 {
+	text-transform: capitalize;
+	font-size: 35px;
+	margin-bottom: 18px;
+	font-weight: normal;
+}
+
+.service .title p {
+	font-size: 22px;
+	color: #AAA;
+	margin-bottom: 0;
+}
+
+.service .title p:last-child {
+	margin: 0 1.5rem 3rem;
+}
+
+.service .image img {
+	margin-bottom: 2rem;
+}
+
+.service .content p:first-child {
+	font-size: 1.5rem;
+}
+
+.service .content p:last-child {
+	color: #AAA;
+	font-size: 1.25rem;
+}
