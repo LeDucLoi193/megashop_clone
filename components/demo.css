@@ -1,0 +1,46 @@
+.demo .title {
+	text-align: center;
+}
+
+.demo .title h3 {
+	text-transform: capitalize;
+	font-size: 35px;
+	margin-bottom: 18px;
+	font-weight: normal;
+}
+
+.demo .title p {
+	font-size: 22px;
+	color: #AAA;
+	margin-bottom: 0;
+}
+
+.demo .title p:last-child {
+	margin: 0 1.5rem 3rem;
+}
+
+.demo .demos .img {
+	display: inline-block;
+	height: 600px;
+	overflow: hidden;
+	text-align: center;
+}
+
+.demo .demos img {
+	width: 90%;
+}
+
+.demo .demos .content {
+	text-align: center;
+}
+
+.demo .demos .content p:first-child {
+	font-size: 4.5rem;
+	color: #CCC;
+	margin-bottom: -4rem;
+}
+
+.demo .demos .content p:last-child {
+	font-size: 2rem;
+	color: black;
+}
