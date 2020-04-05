@@ -49,4 +49,5 @@
 .demo .demos .content p:last-child {
 	font-size: 2rem;
 	color: black;
+	margin-bottom: 4px;
 }
