@@ -1,11 +1,19 @@
+.demo {
+	margin-bottom: 4rem;
+}
+
+.demo a {
+	text-decoration: none;
+}
+
 .demo .title {
 	text-align: center;
 }
 
 .demo .title h3 {
 	text-transform: capitalize;
-	font-size: 35px;
-	margin-bottom: 18px;
+	font-size: 3rem;
+	margin-bottom: 3rem;
 	font-weight: normal;
 }
 

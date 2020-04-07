@@ -1,10 +1,15 @@
 .footer {
 	text-align: center;
+	padding: 3rem 0;
+}
+
+.footer .title {
+	margin-bottom: 2rem;
 }
 
 .footer .title h3 {
 	font-weight: normal;
-	font-size: 2rem;
+	font-size: 2.5rem;
 }
 
 .footer .purchase a {

@@ -1,3 +1,9 @@
 .collection {
 	text-align: center;
+	padding-top: 4rem;
+	background-color: #EEE;
+}
+
+.collection .collection-demo.img {
+	height: 500px;
 }
