@@ -1,0 +1,15 @@
+.more {
+	text-align: center;
+}
+
+.more .more-service {
+	background-color: #f12a43;
+}
+
+.more span {
+	font-size: 1.25rem;
+	height: 80px;
+	line-height: 80px;
+	color: white;
+}
+
