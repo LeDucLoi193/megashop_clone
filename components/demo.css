@@ -12,7 +12,7 @@
 
 .demo .title h3 {
 	text-transform: capitalize;
-	font-size: 3rem;
+	font-size: 2.5rem;
 	margin-bottom: 3rem;
 	font-weight: normal;
 }
@@ -35,7 +35,7 @@
 	padding: 5px;
 }
 
-.demo .demos img {
+.demo .demos .img img {
 	width: 90%;
 	box-shadow: 5px 5px 20px #AAA;
 }
@@ -59,3 +59,9 @@
 	color: black;
 	margin-bottom: 4px;
 }
+
+ @media (min-width: 992px) {
+ 	.demo .demos .img {
+ 		height: 450px;
+ 	}
+ }
